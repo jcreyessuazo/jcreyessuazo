@@ -20,7 +20,7 @@ PHP (Yii2), JavaScript (Node.js, Express), HTML, CSS, MySQL, MongoDB y React en 
 - 📊 Desarrollo de plataforma web de logs y dashboards PLC con Node-RED.  
 
 **ConectaMilk (2021–2024)**  
-- 🚀 Desarrollo de API REST para telemetría y sistemas de gestión de abastecimiento.  
+- 🚀 Desarrollo de API REST Node.js para telemetría y sistemas de gestión de abastecimiento.  
 - 👥 Coordinación de equipos de desarrollo móvil y backend PHP (Yii2).  
 
 **AguaCero (2021)**  
