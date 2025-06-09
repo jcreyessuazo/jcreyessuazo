@@ -12,7 +12,7 @@ Ingeniero en Informática con 7 años de experiencia en desarrollo de software, 
 - 🎓 Ingeniería en Computación, Universidad Austral de Chile (2008–2011)  
 
 ### 🛠️ Habilidades Técnicas  
-PHP (Yii2), JavaScript (Node.js, Express), HTML, CSS, MySQL, MongoDB y React en formación, Linux, Nginx, Apache, Node-RED, PLC Siemens, IX Developer, Git, Heroku.
+PHP (Yii2), JavaScript (Node.js, Express), HTML, CSS, MySQL, MongoDB y React en formación, Linux, Nginx, Apache, Node-RED, Git, Heroku.
 
 ### 💼 Experiencia Laboral  
 **Servicios Ditek (2023–Actualidad)**  
