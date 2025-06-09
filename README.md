@@ -1,6 +1,6 @@
 ## Juan Carlos Reyes Suazo  
 **👨‍💻 Ingeniero en Informática | Desarrollo de Software | Soporte TI**  
-📍 Puerto Montt, Chile | 📧 [jc.reyes.suazo@gmail.com](mailto:jc.reyes.suazo@gmail.com)  
+📍 Puerto Montt, Chile | 📧 [jc.reyes.suazo@gmail.com](mailto:jc.reyes.suazo@gmail.com) | https://www.linkedin.com/in/juan-carlos-reyes-suazo-5463b9102/
 
 ---
 
