@@ -7,6 +7,7 @@
 📧 jc.reyes.su@gmail.com
 
 🔗 LinkedIn
+https://www.linkedin.com/in/juan-carlos-reyes-suazo-5463b9102/
 
 🧠 Sobre mí
 
