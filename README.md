@@ -11,7 +11,7 @@ https://www.linkedin.com/in/juan-carlos-reyes-suazo-5463b9102/
 
 🧠 Sobre mí
 
-Ingeniero en Informática con 7+ años de experiencia en desarrollo backend, integración IoT y administración de servidores. Enfocado en soluciones seguras, escalables y orientadas a procesos industriales.
+Ingeniero en Informática con 8+ años de experiencia en desarrollo backend, integración IoT y administración de servidores. Enfocado en soluciones seguras, escalables y orientadas a procesos industriales.
 
 🛠️ Tech Stack
 
