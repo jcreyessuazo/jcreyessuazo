@@ -112,7 +112,7 @@ Plataforma de monitoreo y control de parámetros operacionales para buques wellb
 
 ## 📬 Contacto
 
-¿Tienes un proyecto desafiante o una oportunidad Tech Lead / Desarrollador Senior?
+¿Tienes un proyecto desafiante o una oportunidad Tech Lead / Desarrollador Semi Senior / Senior?
 
 <p>
   <a href="mailto:jc.reyes.suazo@gmail.com">📧 jc.reyes.suazo@gmail.com</a> &nbsp;|&nbsp;
