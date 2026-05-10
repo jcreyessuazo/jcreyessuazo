@@ -74,7 +74,7 @@ Formado en Ingeniería en Computación en la **Universidad Austral de Chile** y 
 
 ### 🏫 [ProfeBarbara.cl](https://profebarbara.cl) `2026`
 Sistema de gestión de clases particulares a domicilio con portal de pagos integrado vía **MercadoPago**.
-`Node.js` `MySQL` `MercadoPago API`
+`PHP-Yii2` `Node.js` `MySQL` `MercadoPago API`
 
 ---
 
@@ -92,7 +92,7 @@ Aplicación de escritorio para generación e impresión de etiquetas desde datos
 
 ### 📡 Plataforma Wellboat – Ditek `2023–2025`
 Plataforma de monitoreo y control de parámetros operacionales para buques wellboat, integrada con telemetría, APIs propias y visualización en tiempo real.
-`Node.js` `Node-RED` `WebSockets` `Linux` `DigitalOcean`
+`PHP-Yii2` `Node.js` `Node-RED` `WebSockets` `Linux` `DigitalOcean`
 
 ---
 
