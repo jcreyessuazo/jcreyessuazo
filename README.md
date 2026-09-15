@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mí
 
-Ingeniero en Informática con **8+ años** construyendo plataformas web robustas para industrias exigentes: acuicultura, lechería, logística e IoT.
+Ingeniero en Informática con **10+ años** construyendo plataformas web robustas para industrias exigentes: acuicultura, lechería, logística e IoT.
 
 Especialista en **backend y APIs REST** (Node.js, PHP/Yii2), con experiencia full stack, telemetría en tiempo real, visión computacional y coordinación de equipos de desarrollo. Mis sistemas están hoy en producción en wellboats, salas de ordeña y centros de cultivo de salmones.
 
